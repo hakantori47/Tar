@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 group-title="taraftarium",Bein 1
+https://amp-besn.taraftar5580.workers.dev/master.m3u8
+#EXTINF:-1 group-title="taraftarium",Bein 2
+https://amp-besn2.taraftar5580.workers.dev/master.m3u8
+#EXTINF:-1 group-title="taraftarium",Bein 3
+https://amp-besn3.taraftar5580.workers.dev/master.m3u8
+#EXTINF:-1 group-title="taraftarium",Bein 4
+https://amp-besn4.taraftar5580.workers.dev/master.m3u8
+#EXTINF:-1 group-title="taraftarium",Bein Max 1
+https://amp-mx1.taraftar5580.workers.dev/master.m3u8
+#EXTINF:-1 group-title="taraftarium",Bein Max 2
+https://amp-mx2.taraftar5580.workers.dev/master.m3u8
+#EXTINF:-1 group-title="taraftarium",S-Sport 1
+https://amp-s1.taraftar5580.workers.dev/master.m3u8
+#EXTINF:-1 group-title="taraftarium",S-Sport 2
+https://amp-s2.taraftar5580.workers.dev/master.m3u8
+#EXTINF:-1 group-title="taraftarium",Tivibu 1
+https://amp-tvb1.taraftar5580.workers.dev/master.m3u8
+#EXTINF:-1 group-title="taraftarium",Tivibu 2
+https://amp-tvb2.taraftar5580.workers.dev/master.m3u8
+#EXTINF:-1 group-title="taraftarium",Tivibu 3
+https://amp-tvb3.taraftar5580.workers.dev/master.m3u8
+#EXTINF:-1 group-title="taraftarium",Tivibu 4
+https://amp-tvb4.taraftar5580.workers.dev/master.m3u8
