@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.PAT_TOKEN }}  # BU SATIRI EKLE
       
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -33,4 +35,6 @@ jobs:
         git add -A
         git diff --staged --quiet || git commit -m "Update M3U playlist - $(date)"
         git push
-      
+      env:
+        # BU KISMI EKLE
+        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
