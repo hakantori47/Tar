@@ -9,12 +9,8 @@ https://amp-besn3.taraftar5580.workers.dev/master.m3u8
 https://amp-besn4.taraftar5580.workers.dev/master.m3u8
 #EXTINF:-1 group-title="taraftarium",Bein Max 1
 https://amp-mx1.taraftar5580.workers.dev/master.m3u8
-#EXTINF:-1 group-title="taraftarium",Bein Max 2
-https://amp-mx2.taraftar5580.workers.dev/master.m3u8
 #EXTINF:-1 group-title="taraftarium",S-Sport 1
 https://amp-s1.taraftar5580.workers.dev/master.m3u8
-#EXTINF:-1 group-title="taraftarium",S-Sport 2
-https://amp-s2.taraftar5580.workers.dev/master.m3u8
 #EXTINF:-1 group-title="taraftarium",Tivibu 1
 https://amp-tvb1.taraftar5580.workers.dev/master.m3u8
 #EXTINF:-1 group-title="taraftarium",Tivibu 2
